@@ -23,7 +23,3 @@ geometry_msgs/Point32 joint_position_left_hand
 geometry_msgs/Point32 joint_position_right_shoulder
 geometry_msgs/Point32 joint_position_right_elbow
 geometry_msgs/Point32 joint_position_right_hand
-
-# Robot is usually too close to see legs, and not very interesting
-
-
